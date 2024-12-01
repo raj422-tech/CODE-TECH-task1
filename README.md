@@ -21,4 +21,4 @@ THE OUTPUT OF THIS PROGRAM DEPENDS ON THE GIVEN STATEMENT AND THE OUTPUT WOULD B
 
 #TECHNOLOGIES USED:
 -**PYTHON**:THE PRIMARY PROGRAMMING LANGUAGE USED FOR SENTIMENT ANALYTICS 
--**TEXTBLOB**:TextBlob is a free, open-source Python library that processes textual data and provides a simple API for natural language processing (NLP) tasks
+-**TEXTBLOB**:TextBlob is a free, open-source Python library that processes textual data and provides a simple API for natural language processing (NLP) tasks.
